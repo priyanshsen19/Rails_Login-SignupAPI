@@ -1,24 +1,13 @@
-# README
+# Screenshots
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Signup
 
-Things you may want to cover:
+<img src="https://github.com/priyanshsen19/Rails_Login-SignupAPI/blob/main/Screenshot from 2022-12-29 01-23-30.png">
 
-* Ruby version
+#Login
 
-* System dependencies
+<img src="https://github.com/priyanshsen19/Rails_Login-SignupAPI/blob/main/Screenshot from 2022-12-29 01-24-19.png">
 
-* Configuration
+#Create Data for User
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="https://github.com/priyanshsen19/Rails_Login-SignupAPI/blob/main/Screenshot from 2022-12-29 01-24-43.png">

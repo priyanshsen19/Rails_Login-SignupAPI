@@ -6,7 +6,7 @@ class CreateUsers < ActiveRecord::Migration[7.0]
       t.string :password_digest,    null: false
       t.string :confirmation_token 
       t.integer :phone_number      
-      t.datetime :confirmed_at
+      t.string :confirmed_at
       t.datetime :confirmation_sent_at
 
       t.timestamps

@@ -6,7 +6,7 @@ class UsersController < ApplicationController
             puts(token)
             puts(@user)
             @user.update!(
-                :confirmed_at => token  
+                :confirmed_at => token  #stores the token at confirmed_at
             )
             render json: { user: @user, token: token,status: 'User created successfully'}, status: :ok
             
